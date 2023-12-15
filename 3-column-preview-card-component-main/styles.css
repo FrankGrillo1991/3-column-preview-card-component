@@ -48,6 +48,8 @@ span a {
 }
 
 .description-sedans {
+    display: flex;
+    flex-direction: row;
     background-color: hsl(31, 77%, 52%);
     a {
         color: hsl(31, 77%, 52%);
@@ -62,6 +64,8 @@ span a {
 }
 
 .description-suvs {
+    display: flex;
+    flex-direction: row;
     background-color: hsl(184, 100%, 22%);
     a {
         color: hsl(184, 100%, 22%);
@@ -76,6 +80,8 @@ span a {
 }
 
 .description-luxury {
+    display: flex;
+    flex-direction: row;
     background-color: hsl(179, 100%, 13%);
     a {
         color: hsl(179, 100%, 13%);
